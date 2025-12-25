@@ -1,12 +1,59 @@
-# React + Vite
+# 📚 StudyHub – React Study App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+StudyHub is a modern and responsive **study platform** built using **React** and **Tailwind CSS**.  
+It is designed to help students explore courses, save favorites, and access learning resources through a clean and intuitive UI.
 
-Currently, two official plugins are available:
+This project focuses on **reusable components**, **scalable structure**, and **real-world frontend practices**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 📌 Course listing with reusable Course Cards  
+- ⭐ Wishlist / Favorite courses (persistent across sessions)  
+- 🔍 Search and filter functionality  
+- 🌙 Dark mode toggle (Currently building) 
+- ⚡ Fast performance using Vite  
+- 🎨 Fully responsive UI with Tailwind CSS  
+
+---
+
+## 🛠️ Tech Stack
+
+- **React (Latest)**
+- **Vite**
+- **Tailwind CSS**
+- **JavaScript (ES6+)**
+- **React Router DOM**
+
+---
+
+## 📂 Project Structure
+
+```txt
+src/
+├── components/      # Reusable UI components
+├── pages/           # Application pages
+├── data/            # Static course data
+├── assets/          # Images & icons
+├── App.jsx
+└── main.jsx
+
+
+🌐Live Demo
+ 🚧 Coming Soon (Netlify Deployment)
+
+🎯Project Goals
+    💠Practice component-based architecture
+    💠Build a student-focused UI
+    💠Improve frontend performance & maintainability
+    💠Apply real-world Git & GitHub workflow
+
+👨‍💻 Author
+
+    Saud Tajdar
+    BCA Student (3nd Year) – United University
+    Frontend Developer
+
+🌐 Portfolio: https://portfolio-saud.netlify.app
+🐙 GitHub: https://github.com/SaudTajdar09
