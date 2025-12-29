@@ -16,7 +16,7 @@ function Footer() {
         {/* Links */}
         <div>
           <h3 className="font-semibold mb-3">Quick Links</h3>
-          <ul className="space-y-2 text-sm text-gray-300">
+          <ul className="space-y-2 text-sm text-gray-300 cursor-pointer">
             <li>Home</li>
             <li>Courses</li>
             <li>Wishlist</li>

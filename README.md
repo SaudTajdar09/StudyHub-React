@@ -30,7 +30,7 @@ This project focuses on **reusable components**, **scalable structure**, and **r
 
 ## 📂 Project Structure
 
-```txt
+
 src/
 ├── components/      # Reusable UI components
 ├── pages/           # Application pages
@@ -38,7 +38,6 @@ src/
 ├── assets/          # Images & icons
 ├── App.jsx
 └── main.jsx
-
 
 🌐Live Demo
  🚧 Coming Soon (Netlify Deployment)
@@ -52,7 +51,7 @@ src/
 👨‍💻 Author
 
     Saud Tajdar
-    BCA Student (3nd Year) – United University
+    BCA Student (3rd Year) – United University
     Frontend Developer
 
 🌐 Portfolio: https://portfolio-saud.netlify.app
